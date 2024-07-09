@@ -1,0 +1,22 @@
+.container
+{
+    background-color:aliceblue;
+    padding: 10px;
+    text-align: center;
+    border: 5px solid black;
+    width: 400px;
+    margin: 100px 0px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    background-color:antiquewhite;
+}
+i
+{
+    font-size: 70px;
+    color: burlywood;
+}
